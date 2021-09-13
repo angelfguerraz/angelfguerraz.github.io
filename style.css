@@ -160,9 +160,10 @@ a:hover,
 /* MAIN BEGIN */
 
 .carousel {
-    border: red solid .1rem;
+    /* border: red solid .1rem; */
     overflow: scroll;
     padding-left: 30px;
+    padding-right: 30px;
     width: 100%;
     position: relative;
 }
